@@ -1,9 +1,9 @@
 # Как скачать
-<p>1. Копируем проект <code> git clone https://github.com/nicklex/autodetals </code> </p>
-<p>2. Скачиваем composer <code> composer install </code> </p>
+<p>1. Копируем проект <code>git clone https://github.com/nicklex/autodetals</code> </p>
+<p>2. Скачиваем composer <code>composer install</code> </p>
 <p>3. Переименовываем .env.exemple -> .env </p>
-<p>4. Создаем ключ <code> php artisan key:generate </code> </p>
-<p>5. Хранилище для фотографий <code> php artisan storage:link </code> </p>
+<p>4. Создаем ключ <code>php artisan key:generate</code> </p>
+<p>5. Хранилище для фотографий <code>php artisan storage:link</code> </p>
 
 # Db
 - В самом проекте autodetals.sql импортировать в бд
