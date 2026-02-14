@@ -1,5 +1,5 @@
 # Как скачать
-<p>1. <code> git clone https://github.com/nicklex/autodetals/tree/main </code> </p>
+<p>1. <code> git clone [https://github.com/nicklex/autodetals/tree/main](https://github.com/nicklex/autodetals) </code> </p>
 <p>2. <code> composer install </code> </p>
 <p>3. .env.exemple -> .env </p>
 <p>4. <code> php artisan key:generate </code> </p>
