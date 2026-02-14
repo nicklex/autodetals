@@ -1,4 +1,4 @@
-# git clone
+# git clone https://github.com/nicklex/autodetals/tree/main
 # composer install
 # .env.exemple -> .env
 # php artisan key:generate
