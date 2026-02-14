@@ -5,6 +5,9 @@
 <p>4. Создаем ключ <code> php artisan key:generate </code> </p>
 <p>5. Хранилище для фотографий <code> php artisan storage:link </code> </p>
 
+# Db
+- В самом проекте autodetals.sql импортировать в бд
+
 # Version
 - php 8.2^
 - Laravel 12
