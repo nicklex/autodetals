@@ -1,8 +1,9 @@
 # Как скачать
-<p>1. <code> git clone https://github.com/nicklex/autodetals </code> </p>
-<p>2. <code> composer install </code> </p>
-<p>3. .env.exemple -> .env </p>
-<p>4. <code> php artisan key:generate </code> </p>
+<p>1. Копируем проект <code> git clone https://github.com/nicklex/autodetals </code> </p>
+<p>2. Скачиваем composer <code> composer install </code> </p>
+<p>3. Переименовываем .env.exemple -> .env </p>
+<p>4. Создаем ключ <code> php artisan key:generate </code> </p>
+<p>5. Хранилище для фотографий <code> php artisan storage:link </code> </p>
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
